@@ -1,0 +1,6 @@
+    
+     
+	  function
+   a = 2+3 *4
+x= (a+b)/c;
+end

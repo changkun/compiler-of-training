@@ -1,0 +1,5 @@
+    
+     
+	  function
+    a = c+d*(a/c)/b;
+end
